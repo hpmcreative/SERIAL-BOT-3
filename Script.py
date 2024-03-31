@@ -391,7 +391,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  
     RESTART_TXT = """
-<b>Lᴀꜱᴛ Uᴘᴅᴀᴛᴇᴅ ! LEO BOT
+<b>Lᴀꜱᴛ Uᴘᴅᴀᴛᴇᴅ ! LEO BOT 3
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
