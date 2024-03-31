@@ -15,7 +15,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '13305226'))
 API_HASH = environ.get('API_HASH', '8cde2475d6b0cb1162b89ebbac71a95d')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6382508936:AAGwsgcHAJ5Bmk1mVoj4Adv2cfDpnZdb_pw")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7117702689:AAGD6HDp9GY4E9hsRaGZulPlQHGrOF2OU80")
 
 #stream link shortner
 STREAM_SITE = (environ.get('STREAM_SITE', ''))
@@ -37,7 +37,7 @@ MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/Asianet_serial_HPM/329")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
-USERNAME = environ.get("USERNAME", "https://t.me/vis_hnu_bot")
+USERNAME = environ.get("USERNAME", "https://t.me/Mallu_adminbot")
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1258310642 6577722992').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002019598400').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
@@ -54,8 +54,8 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://V:V@cluster0.penwcpq.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "jab")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://V:V@cluster0.tpn0f3q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_NAME = environ.get('DATABASE_NAME', "hpm")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 
