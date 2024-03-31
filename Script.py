@@ -104,12 +104,12 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 ★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
 
-    LOG_TEXT_G = """#NewGroup
+    LOG_TEXT_G = """#NewGroup bot 3
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
 Aᴅᴅᴇᴅ Bʏ - {}"""
 
-    LOG_TEXT_P = """#NewUser
+    LOG_TEXT_P = """#NewUser Bot 3
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
 
